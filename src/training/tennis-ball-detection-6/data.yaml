@@ -1,0 +1,17 @@
+train: 
+  images: 
+    path: "tennis-ball-detection-6/train/images"
+  labels: 
+    path: "tennis-ball-detection-6/train/labels"
+valid: 
+  images: 
+    path: "tennis-ball-detection-6/valid/images"
+  labels: 
+    path: "tennis-ball-detection-6/valid/labels"
+test: 
+  images: 
+    path: "tennis-ball-detection-6/test/images"
+  labels: 
+    path: "tennis-ball-detection-6/test/labels"
+nc: 1
+names: ["tennis_ball"]
