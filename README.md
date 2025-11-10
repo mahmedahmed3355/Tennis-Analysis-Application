@@ -38,17 +38,6 @@ Below is the real system architecture for this project:
 
 ---
 
-### 🖼️ flow Diagram
-![output sample](src/docs/flow.jpg)
-
----
-
-### 🖼️ Output Example
-![output sample](src/docs/analysis.jpg)
-
-
----
-
 ## 🧠 Architecture & Modules
 
 The project is modular and organized into key components:
@@ -135,17 +124,3 @@ python main.py
 - **Libraries:** OpenCV, PyTorch, YOLOv5, NumPy, Matplotlib
 - **Concepts:** Object Detection, Multi-Object Tracking, Court Line Detection, Video Analytics
 
----
-
-## 🧠  (In Progress)
-
-- Integrate a trajectory prediction model for ball path forecasting.
-- Add a match statistics dashboard (e.g., speed, shot accuracy).
-- Experiment with DeepSORT for enhanced player tracking.
-- Introduce a GUI dashboard for visualization and live analytics.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for ideas or improvements.
